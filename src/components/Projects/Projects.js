@@ -23,8 +23,10 @@ function Projects() {
               imgPath={prime}
               isBlog={false}
               title="Amazon Prime"
-              description="A Streaming & Entertainment service offered by Amazon which serve different type of shows , movies etc.Sign-in/Sign-up & Payment page made for smooth functionality of website.HTML , CSS & JavaScript used in it."
-              link="https://github.com/huzaifa621/primeVideoProject"
+              description="A Streaming & Entertainment service offered by Amazon which serve shows , movies etc.Sign-in/Sign-up & Payment page made for functionality of website."
+              link="https://github.com/sam12125/primeclone"
+              stack="Tech Stack - HTML , CSS & JavaScript used in it."
+              deployed="https://primeamazon109.netlify.app/"
             />
           </Col>
 
@@ -33,8 +35,10 @@ function Projects() {
               imgPath={glamm}
               isBlog={false}
               title="My Glamm"
-              description=" An eCommerce website that caters to shopping for Makeup & Beauty products.Way of showcasing the products is really upto the mark.HTML , CSS & JavaScript used in it."
+              description="An eCommerce website that caters to shopping for Makeup & Beauty products.Way of showcasing the products is really upto the mark."
               link="https://github.com/sam12125/myGlamm"
+              stack="Tech Stack - HTML , CSS & JavaScript used in it."
+              deployed="https://taupe-alfajores-6c25cc.netlify.app/"
             />
           </Col>
 
@@ -43,8 +47,10 @@ function Projects() {
               imgPath={travelocity}
               isBlog={false}
               title="Travelocity"
-              description="An online travel agency used for booking of holiday trips , flights , hotels etc.Used api for fetching the data of diffrent cities.HTML , CSS , JavaScript & React used in it"
-              link="https://github.com/AmanJaiswal0612/React_Travelocity_Clone"
+              description="An online travel agency used for booking of holiday trips , flights , hotels etc.Used api for fetching the data of diffrent cities."
+              link="https://github.com/sam12125/Travelocity"
+              stack="Tech Stack - HTML , CSS & JavaScript used in it."
+              deployed="https://celadon-dodol-b03f1e.netlify.app/"
             />
           </Col>
         </Row>
