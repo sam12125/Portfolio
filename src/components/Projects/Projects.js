@@ -2,9 +2,9 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import prime from "../../Assets/Projects/prime.png"
-import glamm from "../../Assets/Projects/glamm.png"
-import travelocity from "../../Assets/Projects/travelocity.png"
+import prime from "../../Assets/Projects/prime.png";
+import glamm from "../../Assets/Projects/glamm.png";
+import travelocity from "../../Assets/Projects/travelocity.png";
 
 function Projects() {
   return (
@@ -26,7 +26,7 @@ function Projects() {
               description="A Streaming & Entertainment service offered by Amazon which serve shows , movies etc.Sign-in/Sign-up & Payment page made for functionality of website."
               link="https://github.com/sam12125/primeclone"
               stack="Tech Stack - HTML , CSS & JavaScript used in it."
-              deployed="https://primeamazon109.netlify.app/"
+              deployed="https://fastidious-elf-fb3591.netlify.app/"
             />
           </Col>
 
