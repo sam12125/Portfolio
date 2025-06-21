@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import Particle from "../Particle";
@@ -41,3 +42,48 @@ function About() {
 }
 
 export default About;
+=======
+import React from "react";
+import { Container, Row, Col } from "react-bootstrap";
+import Particle from "../Particle";
+import Aboutcard from "./AboutCard";
+import laptopImg from "../../Assets/about.png";
+import Footer from "../Footer";
+
+function About() {
+  return (
+    <div>
+    <Container fluid className="about-section">
+      <Particle />
+      <Container>
+        <Row style={{ justifyContent: "center", padding: "10px" }}>
+          <Col
+            md={7}
+            style={{
+              justifyContent: "center",
+              paddingTop: "30px",
+              paddingBottom: "50px",
+            }}
+          >
+            <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
+              Know Who <strong className="purple">I'M</strong>
+            </h1>
+            <Aboutcard />
+          </Col>
+          <Col
+            md={5}
+            style={{ paddingTop: "120px", paddingBottom: "50px" }}
+            className="about-img"
+          >
+            <img src={laptopImg} alt="about" className="img-fluid" />
+          </Col>
+        </Row>
+      </Container>
+    </Container>
+      {/* <Footer/> */}
+      </div>
+  );
+}
+
+export default About;
+>>>>>>> b5a2fec00cea22b6148ae2d8a2f5e0a8126ac135
