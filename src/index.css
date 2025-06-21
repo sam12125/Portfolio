@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 @import url("https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap");
 body {
   margin: 0;
@@ -7,13 +7,3 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-image: linear-gradient(to left, rgb(27 20 41), rgb(20 15 35));
 }
-=======
-@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap");
-body {
-  margin: 0;
-  font-family: "Raleway", serif !important;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  background-image: linear-gradient(to left, rgb(27 20 41), rgb(20 15 35));
-}
->>>>>>> b5a2fec00cea22b6148ae2d8a2f5e0a8126ac135
