@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import pic from "../../Assets/DSC_6964.JPG"
+import pic from "../../Assets/DSC_6964.JPG";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
@@ -8,7 +8,6 @@ import {
   AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
-
 
 function Home2() {
   return (
@@ -20,33 +19,26 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
-              <br />
-              <br />I am fluent in classics like
-              <i>
-                <b className="purple"> JavaScript & React </b>
-              </i>
+              I'm a <b className="purple">Frontend-Focussed Developer</b> with{" "}
+              <b className="purple">3+ years of experience</b> building modern,
+              scalable, and user-centric web applications.
               <br />
               <br />
-              My field of Interest's are building new;
-              <i>
-                <b className="purple">Web Technologies and Products </b>
-              </i>
+              I'm passionate about creating responsive, accessible, and visually
+              engaging interfaces while writing clean, maintainable code. Beyond
+              frontend development, I enjoy exploring emerging web technologies,
+              optimizing performance, and continuously enhancing my skills to
+              build faster, smarter, and more impactful digital experiences.
+              <br />
+              <br />I specialize in{" "}
+              <b className="purple">
+                React.js, Next.js, JavaScript, TypeScript, Shopify and Node.js
+              </b>{" "}
+              with hands-on experience building high-performance eCommerce
+              stores, CMS-driven websites, REST APIs, and conversion-focused
+              digital experiences.
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              <span> like</span>
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
             </p>
           </Col>
           <Col md={4} className="myAvtar">

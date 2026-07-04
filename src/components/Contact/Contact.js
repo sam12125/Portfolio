@@ -32,7 +32,7 @@ function Contact() {
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
-                  <AiFillGithub />
+                  <AiFillGithub style={{marginTop:"10px"}} />
                 </a>
               </li>
               <li className="social-icons">
@@ -42,7 +42,7 @@ function Contact() {
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
-                  <AiOutlineTwitter />
+                  <AiOutlineTwitter style={{marginTop:"10px"}}/>
                 </a>
               </li>
               <li className="social-icons">
@@ -52,7 +52,7 @@ function Contact() {
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
-                  <FaLinkedinIn />
+                  <FaLinkedinIn style={{marginTop:"10px"}} />
                 </a>
               </li>
               <li className="social-icons">
@@ -62,7 +62,7 @@ function Contact() {
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
                 >
-                  <AiFillInstagram />
+                  <AiFillInstagram style={{marginTop:"10px"}} />
                 </a>
               </li>
             </ul>

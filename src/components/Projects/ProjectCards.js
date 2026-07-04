@@ -9,18 +9,20 @@ function ProjectCards(props) {
     <Card className="project-card-view">
       <Card.Img variant="top" src={props.imgPath} alt="card-img" />
       <Card.Body>
-        <Card.Title>{props.title}</Card.Title>
+        <Card.Title>{<span className="purple">
+              {props.title}
+            </span>}</Card.Title>
+            <br></br>
         <Card.Text style={{ textAlign: "justify" }}>
           {props.description}
         </Card.Text>
         <Card.Text style={{ textAlign: "justify" }}>
-          {props.stack}
+          {<span className="purple">
+              {props.stack}
+            </span>}
         </Card.Text>
         <div style={{display:"flex",gap:"5px"}}>
-        <Button variant="primary" href={props.link} target="_blank">
-          <BiLinkExternal /> &nbsp;
-          {props.isBlog ? "View Blog" : " Github Repo"}
-        </Button>
+        
         <Button variant="primary" href={props.deployed} target="_blank">
           <BiLinkExternal /> &nbsp;
           {props.isBlog ? "View Blog" : "View Project"}

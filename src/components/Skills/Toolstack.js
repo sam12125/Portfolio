@@ -4,7 +4,15 @@ import {
   SiVisualstudiocode,
   SiPostman,
   SiNetlify,
-  SiCodesandbox,
+  SiGithub,
+  SiGit,
+  SiVercel,
+  SiFigma,
+  SiShopify,
+  SiWordpress,
+  SiWix,
+  SiRender,
+  SiNpm,
 } from "react-icons/si";
 
 function Toolstack() {
@@ -13,14 +21,25 @@ function Toolstack() {
       <Col xs={4} md={2} className="tech-icons">
         <SiVisualstudiocode />
       </Col>
+
+      <Col xs={4} md={2} className="tech-icons">
+        <SiGithub />
+      </Col>
+
+      <Col xs={4} md={2} className="tech-icons">
+        <SiGit />
+      </Col>
+
       <Col xs={4} md={2} className="tech-icons">
         <SiPostman />
       </Col>
+
       <Col xs={4} md={2} className="tech-icons">
-        <SiNetlify />
+        <SiFigma />
       </Col>
+
       <Col xs={4} md={2} className="tech-icons">
-        <SiCodesandbox />
+        <SiNpm />
       </Col>
     </Row>
   );
