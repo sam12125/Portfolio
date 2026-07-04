@@ -1,24 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.2e8052b9.css",
-    "main.js": "/static/js/main.a4252202.js",
+    "main.css": "/static/css/main.0f69daa7.css",
+    "main.js": "/static/js/main.d1bcde21.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/morley stoves.png": "/static/media/morley stoves.7dab6e1b4dca46eeafeb.png",
+    "static/media/ayuvya.png": "/static/media/ayuvya.2b8467db6da4afc16be2.png",
+    "static/media/exeter.png": "/static/media/exeter.7e9675af4e646085fdf3.png",
+    "static/media/ocochi.png": "/static/media/ocochi.24d2ec489fc3ef68f969.png",
+    "static/media/xentral.png": "/static/media/xentral.359549373a2365a7b3e8.png",
     "static/media/prime.png": "/static/media/prime.219f8a20f28dbe86259a.png",
     "static/media/glamm.png": "/static/media/glamm.3b524223f5739e18d953.png",
     "static/media/travelocity.png": "/static/media/travelocity.86e35b112228ea57d066.png",
     "static/media/DSC_6964.JPG": "/static/media/DSC_6964.b325e20989d381260c4e.JPG",
-    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/Saiyam_cv.pdf": "/static/media/Saiyam_cv.0df7f5a3331b1278142d.pdf",
+    "static/media/home-logo.png": "/static/media/home-logo.20568217eaa2891f9eb8.png",
+    "static/media/Updated-cv.pdf": "/static/media/Updated-cv.33bf201acd6f965b7e15.pdf",
     "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
-    "main.2e8052b9.css.map": "/static/css/main.2e8052b9.css.map",
-    "main.a4252202.js.map": "/static/js/main.a4252202.js.map",
+    "main.0f69daa7.css.map": "/static/css/main.0f69daa7.css.map",
+    "main.d1bcde21.js.map": "/static/js/main.d1bcde21.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e8052b9.css",
-    "static/js/main.a4252202.js"
+    "static/css/main.0f69daa7.css",
+    "static/js/main.d1bcde21.js"
   ]
 }
